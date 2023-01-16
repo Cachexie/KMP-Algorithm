@@ -2,8 +2,7 @@
 
 玩了一天游戏，减轻一下负罪感
 
-```sh
->>>python3
+```
 Python 3.10.9 (main, Dec 08 2022, 14:49:06) [GCC] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 >>> from kmp import *
